@@ -1,0 +1,24 @@
+# Core dependencies
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+mediapipe>=0.10.0
+
+# Deep Learning
+deepface>=0.0.79
+tensorflow>=2.13.0
+scipy>=1.11.0
+
+# Database
+sqlite3
+
+# Utilities
+Pillow>=10.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+pyqtgraph>=0.13.0
+
+# Optional: For better performance
+# tensorflow-gpu>=2.13.0  # Si tienes GPU NVIDIA
+
